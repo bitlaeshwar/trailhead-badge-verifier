@@ -1,8 +1,9 @@
 # trailhead-badge-verifier
->**Before Update the Page of salesforce module**
+**Before Update the Page of salesforce module**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/24820b57-5555-4c3d-88c8-a0aafe84c7d2" />    
                                             \/
->**Implementing url and buttons field **
+
+**Implementing url and buttons field**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/87ff90d1-eb30-4304-81b9-7a439ae63b6d" />
 
 
